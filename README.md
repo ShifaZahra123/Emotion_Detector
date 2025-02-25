@@ -30,6 +30,9 @@ The app utilizes the following saved files:
 - `tfidf_vectorizer.pkl`: Pickle file containing the TF-IDF vectorizer.
 - `label_encoder.pkl`: Pickle file containing the label encoder.
 
+### Sample Application Workflow
+![Workflow](Sample_Images/Workflow.PNG)
+
 ## Installation
 To set up the application locally, follow these steps:
 
