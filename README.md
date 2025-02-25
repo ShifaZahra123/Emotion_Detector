@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Python-79FFB2)
 [![Model](https://img.shields.io/badge/Model-Logistic%20Regression-FF8C00)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 [![Embeddings](https://img.shields.io/badge/Embeddings-TFIDF%20Vectorizer-0000FF)](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
-[![API](https://img.shields.io/badge/API-TensorFlow%202.15.0-FF8C00)](https://www.tensorflow.org/)
+[![API](https://img.shields.io/badge/API-TensorFlow%202.17.0-FF8C00)](https://www.tensorflow.org/)
 
 ## Project Name: **[Six Human Emotions Detection](https://your-streamlit-app-link.com/)**
 
